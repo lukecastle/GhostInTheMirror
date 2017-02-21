@@ -22,5 +22,7 @@ This link takes you to a ghost FX. You can download this from youtube using your
 Now copy this to a blank usb stick.
 Plug it into the software and bingo, you have a ghost which will reloop.
 Now you can build a frame for your mirror and use a spare monitor with a 2 way mirror to finish off your project.
+# What Else Can You Use It For?
+You can use it for display a instore video if you work in a shop or you can use it like an art gallery. You chose the limits.
 # Help
 Anyone more info? Email me at: nuexlukecastle@outlook.com
