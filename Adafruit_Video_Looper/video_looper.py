@@ -237,6 +237,7 @@ class VideoLooper(object):
 
 # Main entry point.
 if __name__ == '__main__':
+    raw_input ("Press Enter To Show The Ghost")
     print('Starting Adafruit Video Looper.')
     # Default config path to /boot.
     config_path = '/boot/video_looper.ini'
