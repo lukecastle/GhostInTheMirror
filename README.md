@@ -5,6 +5,7 @@ Type in the following code into your Raspberry Pi terminal:
 sudo apt-get update
 sudo apt-get install -y git
 git clone https://github.com/lukecastle/GhostInTheMirror.git
+git clone https://github.com/adafruit/pi_video_looper.git
 Then also type in:
 cd pi_video_looper
 sudo ./install.sh
