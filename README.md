@@ -6,6 +6,7 @@ sudo apt-get update
 sudo apt-get install -y git
 git clone https://github.com/lukecastle/GhostInTheMirror.git
 git clone https://github.com/adafruit/pi_video_looper.git
+The reason you need to download the adafruit software is that I took inspiration from their project so you need to install parts from their software which I didn't manage to get for the video looper.
 Then also type in:
 cd pi_video_looper
 sudo ./install.sh
