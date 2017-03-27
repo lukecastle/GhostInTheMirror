@@ -1,6 +1,4 @@
-# Copyright 2015 Adafruit Industries.
-# Author: Tony DiCola
-# License: GNU GPLv2, see LICENSE.txt
+
 import ConfigParser
 import importlib
 import os
